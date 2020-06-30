@@ -1,0 +1,19 @@
+{
+	"backend_name":	"Git",
+	"backend_version":  "0.3.0",
+	"data":  
+	{
+		"CommitDate":  "TueAug 18 18:08:27 2015 +0200",
+		"commit":  "dc78c254e464ff334892e0448a23e4cfbfc637a3",
+		"files":  
+		[
+			{
+				"action":  "A",
+				"added":  "10",
+				"file":  ".gitignore",
+			}, 
+		],
+		"message":  "Initial import",
+	},
+	"origin":  "https://github.com/grimoirelab/perceval.git",
+}
