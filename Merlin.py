@@ -1,18 +1,5 @@
-# useful information from the guideline of the assignment used to test percival #
-
-# perceval git 'https://github.com/chaoss/grimoirelab-perceval.git' --from-date '2016-01-01'
-# perceval git 'https://github.com/grimoirelab/perceval'
-	# /perceval.test
-
-# perceval github elastic logstash --from-date '2016-01-01'
-
-#'https://github.com/grimoirelab/perceval' -> perceval is also tested on the this repository
-#'/tmp/perceval.git'
-
 # Author: A. Berkay Bal
 # ID: 21201318
-# Assignment: ALM_HW3
-# Due: 8.04.2020
 
 ###########################################################################################
 
